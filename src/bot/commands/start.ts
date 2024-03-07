@@ -14,7 +14,7 @@ export async function startBot(ctx: CommandContext<Context>) {
   
 The first Multi Industry customised Website Builder made entirely through Telegram
 
-Scroll through custom Templates, GPT optimised content Write-up's and even generated Images to ensure you create your dream Website. Once created, you will receive a demo TestNet version, to make sure everything is perfect. From there, we have different hosting options to chose from.
+Scroll through custom Templates, GPT optimised content Write-up's and even generated Images to ensure you create your dream Website. Once created, you will receive a demo TestNet version, to make sure everything is perfect. From there, we have different hosting options to choose from.
 
 Premium Bot users will have additional benefits such as AI image generation, SEO Implementation and so much more, you can also check that out below!
 
