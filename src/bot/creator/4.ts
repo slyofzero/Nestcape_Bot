@@ -2,43 +2,43 @@ import { Steps } from "./steps";
 
 export const template4Steps: Steps = {
   1: {
-    setting: "hero section's title",
+    setting: "first section's title",
     image: "./step-images/4/1.png",
     selector: "#hero-text",
     inputType: "text",
   },
   2: {
-    setting: "hero section's description",
+    setting: "first section's description",
     image: "./step-images/4/2.png",
     selector: "#hero-description",
     inputType: "text",
   },
   3: {
-    setting: "hero section's first button text",
+    setting: "text of the first button in the first section",
     image: "./step-images/4/3.png",
     selector: "#hero-btn-1",
     inputType: "text",
   },
   4: {
-    setting: "hero section's first button link",
+    setting: "link for the first button in the first section",
     image: "./step-images/4/3.png",
     selector: "#hero-btn-1",
     inputType: "link",
   },
   5: {
-    setting: "hero section's image",
+    setting: "first section's image",
     image: "./step-images/4/4.png",
     selector: "#hero-img",
     inputType: "image",
   },
   6: {
-    setting: "top right button's text",
+    setting: "text of the top right button",
     image: "./step-images/4/5.png",
     selector: "#nav-btn",
     inputType: "text",
   },
   7: {
-    setting: "top right button's link",
+    setting: "link for the top right button",
     image: "./step-images/4/5.png",
     selector: "#nav-btn",
     inputType: "link",
@@ -56,13 +56,13 @@ export const template4Steps: Steps = {
     inputType: "text",
   },
   10: {
-    setting: "first section's description",
+    setting: "first description in the second section's",
     image: "./step-images/4/23.png",
     selector: "#first-description",
     inputType: "text",
   },
   11: {
-    setting: "first section's description",
+    setting: "second description in the second section",
     image: "./step-images/4/8.png",
     selector: "#second-sub-description",
     inputType: "text",
@@ -86,13 +86,13 @@ export const template4Steps: Steps = {
     inputType: "text",
   },
   15: {
-    setting: "second section's title",
+    setting: "third section's title",
     image: "./step-images/4/12.png",
     selector: "#second-title",
     inputType: "text",
   },
   16: {
-    setting: "second section's description",
+    setting: "third section's description",
     image: "./step-images/4/13.png",
     selector: "#second-description",
     inputType: "text",
@@ -146,13 +146,13 @@ export const template4Steps: Steps = {
     inputType: "text",
   },
   25: {
-    setting: "footer's button text",
+    setting: "text of the footer's button",
     image: "./step-images/4/22.png",
     selector: "#footer-btn",
     inputType: "text",
   },
   26: {
-    setting: "footer's button link",
+    setting: "link for the footer's button",
     image: "./step-images/4/22.png",
     selector: "#footer-btn",
     inputType: "link",

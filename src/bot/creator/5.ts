@@ -2,13 +2,13 @@ import { Steps } from "./steps";
 
 export const template5Steps: Steps = {
   1: {
-    setting: "hero section's title",
+    setting: "first section's title",
     image: "./step-images/5/1.png",
     selector: "#hero-text",
     inputType: "text",
   },
   2: {
-    setting: "hero section's description",
+    setting: "first section's description",
     image: "./step-images/5/2.png",
     selector: "#hero-description",
     inputType: "text",

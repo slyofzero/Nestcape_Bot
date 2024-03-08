@@ -2,25 +2,25 @@ import { Steps } from "./steps";
 
 export const template10Steps: Steps = {
   1: {
-    setting: "hero section's title",
+    setting: "first section's title",
     image: "./step-images/10/1.png",
     selector: "#hero-text",
     inputType: "text",
   },
   2: {
-    setting: "hero section's description",
+    setting: "first section's description",
     image: "./step-images/10/2.png",
     selector: "#hero-description",
     inputType: "text",
   },
   3: {
-    setting: "hero section's first button's text",
+    setting: "text for the button in the first section",
     image: "./step-images/10/3.png",
     selector: "#hero-btn-1",
     inputType: "text",
   },
   4: {
-    setting: "hero section's first button's link",
+    setting: "link for the button in the first section",
     image: "./step-images/10/3.png",
     selector: "#hero-btn-1",
     inputType: "link",
