@@ -2,19 +2,19 @@ import { Steps } from "./steps";
 
 export const template1Steps: Steps = {
   1: {
-    setting: "hero section's title",
+    setting: "first section's title",
     image: "./step-images/1/1.png",
     selector: "#hero",
     inputType: "text",
   },
   2: {
-    setting: "hero section's description",
+    setting: "first section's description",
     image: "./step-images/1/2.png",
     selector: "#hero-description",
     inputType: "text",
   },
   3: {
-    setting: "hero section's image",
+    setting: "first section's image",
     image: "./step-images/1/3.png",
     selector: "#hero-img",
     inputType: "image",

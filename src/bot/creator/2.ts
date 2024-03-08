@@ -2,43 +2,43 @@ import { Steps } from "./steps";
 
 export const template2Steps: Steps = {
   1: {
-    setting: "hero section's title",
+    setting: "header's text",
     image: "./step-images/2/1.png",
     selector: "#hero-text",
     inputType: "text",
   },
   2: {
-    setting: "hero section's description",
+    setting: "main section's description",
     image: "./step-images/2/2.png",
     selector: "#hero-description",
     inputType: "text",
   },
   3: {
-    setting: "hero section's button text",
+    setting: "text for the button in the main section",
     image: "./step-images/2/3.png",
     selector: "#hero-link",
     inputType: "text",
   },
   4: {
-    setting: "hero section's button link",
+    setting: "link for the button in the main section",
     image: "./step-images/2/3.png",
     selector: "#hero-link",
     inputType: "link",
   },
   5: {
-    setting: "hero section's image",
+    setting: "image for the main section",
     image: "./step-images/2/4.png",
     selector: "#hero-img",
     inputType: "image",
   },
   6: {
-    setting: "website's logo text",
+    setting: "website's name",
     image: "./step-images/2/5.png",
     selector: "#logo",
     inputType: "text",
   },
   7: {
-    setting: "first section's title",
+    setting: "second section's title",
     image: "./step-images/2/6.png",
     selector: "#section-1",
     inputType: "text",
@@ -92,13 +92,13 @@ export const template2Steps: Steps = {
     inputType: "text",
   },
   16: {
-    setting: "second section's button text",
+    setting: "text for the button in the second section",
     image: "./step-images/2/15.png",
     selector: "#second-section-btn",
     inputType: "text",
   },
   17: {
-    setting: "second section's button link",
+    setting: "link for the button in the second section",
     image: "./step-images/2/15.png",
     selector: "#second-section-btn",
     inputType: "link",
@@ -116,13 +116,13 @@ export const template2Steps: Steps = {
     inputType: "text",
   },
   20: {
-    setting: "third section's button text",
+    setting: "text for the button in the third section",
     image: "./step-images/2/18.png",
     selector: "#third-section-btn",
     inputType: "text",
   },
   21: {
-    setting: "third section's button link",
+    setting: "link for the button in the second section",
     image: "./step-images/2/18.png",
     selector: "#third-section-btn",
     inputType: "link",
